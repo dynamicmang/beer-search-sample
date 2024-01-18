@@ -11,7 +11,7 @@ Punk API 이용한 검색 프로젝트입니다.
 - compose
 - hilt
 - coroutine, flow
-- room
+- datastore
 - okhttp, retrofit, kotlin-serialization
 - coil
 - Timber
